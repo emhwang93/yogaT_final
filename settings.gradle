@@ -1,0 +1,9 @@
+rootProject.name = "yogaT"
+include ':app'
+include ':yogat'
+include ':yogatintegration'
+include ':freemode'
+include ':bringimagefromdjango'
+include ':loginLayout'
+include ':newLoginPage'
+include ':newLoginPage'
